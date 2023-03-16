@@ -114,7 +114,7 @@ Con el traductor previamente entrenado, procederemos a ingresar un query con la 
 
 Se procede a ejecutar el comparador el cual nos dará los resultados basandonos en 2 modelos: Word2vec (específicamente Glove) y Bert
 
-![image](https://user-images.githubusercontent.com/107890153/225510530-1e7abf99-c67b-481c-8c3e-7409ae72dda0.png)
+![image](https://user-images.githubusercontent.com/107890153/225513039-d66b8f4c-7ce8-4c54-ae56-ec81fbce934f.png)
 
 ![image](https://user-images.githubusercontent.com/107890153/225510688-b92042ac-1df5-4ee1-9b9c-18117d61c888.png)
 
