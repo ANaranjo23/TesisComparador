@@ -145,5 +145,5 @@ Se ejecuta las celdas para obtener la matriz de confusión y obtener los valores
 
 ![image](https://user-images.githubusercontent.com/107890153/225511711-a0138d31-2a11-4947-ab7c-42d0a484728f.png)
 
-![image](https://user-images.githubusercontent.com/107890153/225512178-3d2e2355-99ad-4acf-9b09-16686b3fb450.png)
+![image](https://user-images.githubusercontent.com/107890153/225513585-de0d0d10-89ef-4774-9103-2f2243541114.png)
 
